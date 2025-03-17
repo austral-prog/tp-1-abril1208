@@ -21,7 +21,7 @@ s1, s2, s3 = "Python", " is ", 'awesome'
 print(s1 + s2 + s3) #Python is awesome
 
 x = y = z = "Naranja"
-print("valor de x: " + x + ", valor de y: " + y + ", valor de z: " + z) : valor de x: Naranja, valor de y: Naranja, valor de z: Naranja
+print("valor de x: " + x + ", valor de y: " + y + ", valor de z: " + z) # valor de x: Naranja, valor de y: Naranja, valor de z: Naranja
 
 z1 = i3 / i2
 print(z1) #1.6
